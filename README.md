@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Praveen Kumar Roy 👋
 
-<!--
-**pkroy1612/pkroy1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Analyst/Data Science enthusiast** with a strong foundation in analytics, problem-solving, and real-world business applications.
 
-Here are some ideas to get you started:
+I have hands-on experience in SQL, Python, and data visualization tools, and I enjoy working with data to uncover insights, build models, and support decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+**Programming:** Python, SQL  
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+**Data Tools:** Excel (Advanced), Power BI, BigQuery, Looker Studio  
+**Concepts:** Data Cleaning, Data Visualization, Machine Learning, Statistics, Data Analysis  
+
+---
+
+## 🎓 Background
+
+- 🎓 IIT Roorkee (2025)  
+- 💼 Currently working as a Project Engineer at BPCL, transitioning towards data and analytics roles  
+
+---
+
+## 🌐 Let's Connect
+
+- 🔗 LinkedIn: [linkedin.com/in/praveenroy1612](https://linkedin.com/in/praveenroy1612)  
+- 📧 Email: praveenkumarroy.iitr@gmail.com  
+- 💻 LeetCode: *(https://leetcode.com/u/pkroy_1612/)*  
+
