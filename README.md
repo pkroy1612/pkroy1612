@@ -26,5 +26,5 @@ I have hands-on experience in SQL, Python, and data visualization tools, and I e
 
 - 🔗 LinkedIn: [linkedin.com/in/praveenroy1612](https://linkedin.com/in/praveenroy1612)  
 - 📧 Email: praveenkumarroy.iitr@gmail.com  
-- 💻 LeetCode: *(https://leetcode.com/u/pkroy_1612/)*  
+- 💻 LeetCode: *https://leetcode.com/u/pkroy_1612/*  
 
